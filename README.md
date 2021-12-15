@@ -4,6 +4,10 @@ This project was for my UCSD coding bootcamp.
 
 ## Application Preview
 
+https://user-images.githubusercontent.com/85325106/146117394-7e4a4cdd-c7af-4cfb-b553-a2611f8124d4.mp4
+
+https://user-images.githubusercontent.com/85325106/146117411-d2b5ddcf-95e6-43f1-be13-baa309f491a6.mp4
+
 ## Repository
 
 * [GitHub Repo](https://github.com/latommyla/E-Commerce)
